@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Chat bubble -->
+  <path d="M40 40C40 35.5817 43.5817 32 48 32H152C156.418 32 160 35.5817 160 40V120C160 124.418 156.418 128 152 128H120L100 148L80 128H48C43.5817 128 40 124.418 40 120V40Z" fill="#2196F3"/>
+  
+  <!-- Robot head -->
+  <rect x="70" y="60" width="60" height="60" rx="10" fill="white"/>
+  
+  <!-- Eyes -->
+  <circle cx="90" cy="85" r="8" fill="#2196F3"/>
+  <circle cx="110" cy="85" r="8" fill="#2196F3"/>
+  
+  <!-- Antenna -->
+  <path d="M100 60L100 40" stroke="#2196F3" stroke-width="4"/>
+  <circle cx="100" cy="35" r="5" fill="#2196F3"/>
+  
+  <!-- Mouth -->
+  <path d="M85 105C85 105 90 115 100 115C110 115 115 105 115 105" stroke="#2196F3" stroke-width="4" stroke-linecap="round"/>
+</svg> 
