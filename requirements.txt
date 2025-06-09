@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Flask==3.0.0
 Flask-SQLAlchemy==3.1.1
 Flask-Login==0.6.3
@@ -6,4 +7,14 @@ python-dotenv==1.0.0
 SpeechRecognition==3.10.0
 pyttsx3==2.90
 bcrypt==4.1.2
+=======
+Flask==3.0.0
+Flask-SQLAlchemy==3.1.1
+Flask-Login==0.6.3
+Flask-Cors==4.0.0
+python-dotenv==1.0.0
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+bcrypt==4.1.2
+>>>>>>> 8c8c283ab03ce3aa65304dd6ba76fd59ace1705e
 PyJWT==2.8.0 
